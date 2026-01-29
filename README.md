@@ -4,7 +4,7 @@
 Hi! I'm AC1D, Also known as ST4R to some people, That's how I got AC1DST4R. Best of both worlds!
 - I handcode all projects (Or just kinda steal ideas 😧)
 
-- But even if I do, It's all recoded to be better, or faster. ⬆️ 💨
+- But even if I do, It's all recoded to be better, faster, or both! ⬆️ 💨
 
 ## My Promises 🫡
 I promise not to:
