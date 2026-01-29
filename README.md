@@ -1,16 +1,18 @@
-## Hi there 👋
+# ITS SO NICE TO BE BACK!
 
-<!--
-**AC1DST4R/AC1DST4R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Little sum about me
+Hi! I'm AC1D, Also known as ST4R to some people, That's how I got AC1DST4R. Best of both worlds!
+I handcode all projects (Or just kinda steal ideas 😧)
 
-Here are some ideas to get you started:
+But even if I do, It's all recoded to be better, or faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Promises
+I promise not to:
+
+Use AI for entire projects
+Have a Repo or a Site that runs like shit
+Advertise to my beautiful people
+
+## "Tf do you mean 'So nice to be back'"
+
+Due to a false DMCA copyright ban. I was forced off github for a while. Now I'm back with a new account
