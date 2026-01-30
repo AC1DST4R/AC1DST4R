@@ -20,7 +20,7 @@ I promise:
 ## My Linkies ⛓️
 
 My apps (Updated every new release 😁)
-- https://ac1dst4r.github.io/Linktree/
+- https://ac1dst4r.github.io/apps/
 
 My Discord (Fated)🤯
 - https://discord.gg/dAf4YXWgbq
