@@ -26,7 +26,7 @@ My Discord (Fated)🤯
 - https://discord.gg/dAf4YXWgbq
 
 My Firefox Developer Account 💻
-https://addons.mozilla.org/en-US/firefox/user/19715107/
+- https://addons.mozilla.org/en-US/firefox/user/19715107/
 
 
 
