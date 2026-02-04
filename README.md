@@ -17,13 +17,16 @@ I promise:
 
 - Due to a false DMCA copyright ban. I was forced off github for a while. Now I'm back with a new account! 🥹
 
-## My Linkies ⛓️
+## My Linkies 🔗 
 
 My apps (Updated every new release 😁)
 - https://ac1dst4r.github.io/Apps/
 
 My Discord (Fated)🤯
 - https://discord.gg/dAf4YXWgbq
+
+My Firefox Developer Account 💻
+https://addons.mozilla.org/en-US/firefox/user/19715107/
 
 
 
